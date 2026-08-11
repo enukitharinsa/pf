@@ -1,3 +1,5 @@
+#Water bill calculator
+
 customer=0
 amount=0
 
